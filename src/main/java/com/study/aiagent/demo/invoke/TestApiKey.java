@@ -1,4 +1,4 @@
-package com.study.aiagent.controller.demo.invoke;
+package com.study.aiagent.demo.invoke;
 
 /**
  * 仅用于测试获取 API Key

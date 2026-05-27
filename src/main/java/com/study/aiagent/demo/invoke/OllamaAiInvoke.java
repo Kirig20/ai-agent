@@ -1,4 +1,4 @@
-package com.study.aiagent.controller.demo.invoke;
+package com.study.aiagent.demo.invoke;
 
 import jakarta.annotation.Resource;
 import org.springframework.ai.chat.messages.AssistantMessage;

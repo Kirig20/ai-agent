@@ -1,4 +1,4 @@
-package com.study.aiagent.controller.demo.invoke;
+package com.study.aiagent.demo.invoke;
 
 import dev.langchain4j.community.model.dashscope.QwenChatModel;
 import dev.langchain4j.model.chat.ChatLanguageModel;

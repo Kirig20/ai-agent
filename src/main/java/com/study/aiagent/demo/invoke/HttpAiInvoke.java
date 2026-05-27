@@ -1,4 +1,4 @@
-package com.study.aiagent.controller.demo.invoke;
+package com.study.aiagent.demo.invoke;
 
 import cn.hutool.http.HttpRequest;
 import cn.hutool.json.JSONObject;
