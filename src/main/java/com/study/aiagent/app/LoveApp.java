@@ -1,6 +1,7 @@
 package com.study.aiagent.app;
 
 import com.study.aiagent.advisor.MyLoggerAdvisor;
+import com.study.aiagent.chatmemory.FileBasedChatMemory;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;
